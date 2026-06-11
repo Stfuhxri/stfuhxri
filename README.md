@@ -1,39 +1,46 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hari&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20%26%20Mobile%20Developer%20|%20UI/UX%20Designer%20|%20Content%20Creator&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Hari&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20%26%20Mobile%20Developer%20|%20UI/UX%20Designer%20|%20Content%20Creator&descAlignY=55&descSize=18&descAlign=50)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+sleek+UIs+%26+mobile+apps;AI-assisted+Android+Development;Figma+%7C+React+%7C+Node.js;Turning+ideas+into+pixels+%26+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B794F6&center=true&vCenter=true&width=650&lines=Building+sleek+UIs+%26+mobile+apps+%E2%9C%A8;AI-assisted+Android+Development+%F0%9F%93%B1;Figma+%E2%9D%96+React+%E2%9D%96+Node.js;Turning+ideas+into+pixels+%26+code+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.E.%20CSE-SNS%20College%20of%20Technology-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
-![Diploma](https://img.shields.io/badge/Diploma-AI%20%26%20ML-4B0082?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Location-Chennai,%20Tamil%20Nadu,%20India-7C3AED?style=flat-square)
+<img src="https://img.shields.io/badge/B.E.%20CSE-SNS%20College%20of%20Technology-9D4EDD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=240046" />
+<img src="https://img.shields.io/badge/Diploma-AI%20%26%20ML-7B2CBF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=240046" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Stfuhxri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihariyuvaraj/)
-[![Email](https://img.shields.io/badge/Email-Contact-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariyuvaraj1208@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stfuhxri)
+<img src="https://img.shields.io/badge/📍_Based_in-Coimbatore_•_Chennai_•_Salem-C77DFF?style=for-the-badge&labelColor=240046" />
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Stfuhxri&color=8A2BE2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Stfuhxri?style=flat-square&color=7C3AED&label=Followers)
-![Stars](https://img.shields.io/github/stars/Stfuhxri?style=flat-square&color=6A0DAD&label=Stars)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5A189A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B)](https://github.com/Stfuhxri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B)](https://www.linkedin.com/in/srihariyuvaraj/)
+[![Email](https://img.shields.io/badge/Email-Contact-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10002B)](mailto:hariyuvaraj1208@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B)](https://github.com/Stfuhxri)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Stfuhxri&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS&labelColor=240046" />
+<img src="https://img.shields.io/github/followers/Stfuhxri?style=for-the-badge&color=7B2CBF&label=FOLLOWERS&labelColor=240046" />
+<img src="https://img.shields.io/github/stars/Stfuhxri?style=for-the-badge&color=C77DFF&label=STARS&labelColor=240046" />
 
 </div>
 
----
+<br/>
 
-## 🟣 About Me
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
 
-I'm **Hari**, an aspiring **Full-Stack & Mobile Developer** based in Chennai, India, currently pursuing a **B.E. in Computer Science Engineering** with a strong foundation in **AI & ML** from my diploma studies.
+<br/>
 
-I love bridging the gap between **design and engineering** — crafting interfaces in Figma and then bringing them to life with **React, Node.js, and Android Studio's AI-assisted workflows**. My approach blends a **product engineering mindset** with a designer's eye for detail, focused on building apps that are functional, clean, and genuinely enjoyable to use.
+## 💜 About Me
+
+I'm **Hari**, an aspiring **Full-Stack & Mobile Developer** based across **Coimbatore, Chennai, and Salem**, currently pursuing a **B.E. in Computer Science Engineering** with a strong foundation in **AI & ML** from my diploma studies.
+
+I love bridging the gap between **design and engineering** — crafting interfaces in Figma and bringing them to life with **React, Node.js, and Android Studio's AI-assisted workflows**. My approach blends a **product engineering mindset** with a designer's eye for detail, focused on building apps that are functional, clean, and genuinely enjoyable to use.
 
 Beyond code, I create content around **video editing and design**, documenting my learning journey and sharing what I build.
 
@@ -45,49 +52,61 @@ Beyond code, I create content around **video editing and design**, documenting m
   - Freelance Design & Development Projects
 ```
 
----
+<br/>
 
-## 🟣 Tech Stack
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
+
+<br/>
+
+## 💜 Tech Stack
+
+<div align="center">
 
 **Languages & Frontend**
 
-![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+<br/><br/>
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+<br/><br/>
 
 **Mobile, Design & Tools**
 
-![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)
-![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
-![PremierePro](https://skillicons.dev/icons?i=ps&theme=dark)
+<img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,vscode,ps&theme=dark" />
 
----
+</div>
 
-## 🟣 Design & AI-Assisted Development Focus
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
+
+<br/>
+
+## 💜 Design & AI-Assisted Development Focus
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|---|---|---|
+|:---|:---:|:---|
 | **UI/UX Design** | 🟪🟪🟪🟪⬜ | Figma prototyping, design systems, mobile & web layouts |
 | **AI-Assisted Mobile Dev** | 🟪🟪🟪⬜⬜ | Building Android apps using AI-assisted Android Studio workflows |
 | **Frontend Development** | 🟪🟪🟪⬜⬜ | React basics, responsive layouts with Tailwind CSS |
 | **Backend Development** | 🟪🟪⬜⬜⬜ | Node.js & Express fundamentals, REST API basics |
 | **AI/ML Foundations** | 🟪🟪⬜⬜⬜ | Diploma-level ML concepts, applied within AI-assisted tooling |
 
----
+</div>
 
-## 🟣 Featured Projects
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
+
+<br/>
+
+## 💜 Featured Projects
 
 <details>
 <summary><b>🎵 Music Streaming App</b></summary>
@@ -149,9 +168,13 @@ Focused on translating user needs into clean, consistent interfaces — covering
 
 </details>
 
----
+<br/>
 
-## 🟣 Experience
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
+
+<br/>
+
+## 💜 Experience
 
 ### Independent Creator & Developer
 **Self-Directed Learning Projects**
@@ -164,11 +187,19 @@ Working independently on personal and learning-driven projects spanning web deve
 - Developed a personal portfolio site using HTML, CSS, and JavaScript
 - Created and edited video content to document projects and learning progress
 
-`Figma` `Android Studio` `HTML/CSS/JS` `React` `Video Editing`
+<img src="https://img.shields.io/badge/Figma-7B2CBF?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-9D4EDD?style=flat-square&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML/CSS/JS-C77DFF?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/React-5A189A?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Video%20Editing-240046?style=flat-square&logo=adobepremierepro&logoColor=white" />
 
----
+<br/>
 
-## 🟣 Achievements
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
+
+<br/>
+
+## 💜 Achievements
 
 <div align="center">
 
@@ -181,77 +212,105 @@ Working independently on personal and learning-driven projects spanning web deve
 
 </div>
 
----
+<br/>
 
-## 🟣 Certifications
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
+
+<br/>
+
+## 💜 Certifications
+
+<div align="center">
 
 **AWS**
 <br/>
-![AWS](https://img.shields.io/badge/Add%20Your%20AWS%20Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<img src="https://img.shields.io/badge/Add%20Your%20AWS%20Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=240046" />
 
 **Oracle**
 <br/>
-![Oracle](https://img.shields.io/badge/Add%20Your%20Oracle%20Certification-F80000?style=flat-square&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/Add%20Your%20Oracle%20Certification-9D4EDD?style=for-the-badge&logo=oracle&logoColor=white&labelColor=240046" />
 
 **NPTEL**
 <br/>
-![NPTEL](https://img.shields.io/badge/Add%20Your%20NPTEL%20Certification-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
+<img src="https://img.shields.io/badge/Add%20Your%20NPTEL%20Certification-7B2CBF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=240046" />
 
 **Cisco**
 <br/>
-![Cisco](https://img.shields.io/badge/Add%20Your%20Cisco%20Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Username-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-Add%20Username-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Username-6A0DAD?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Username-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
+<img src="https://img.shields.io/badge/Add%20Your%20Cisco%20Certification-C77DFF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=240046" />
 
 </div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Stfuhxri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stfuhxri&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stfuhxri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
 
-</div>
+<br/>
 
----
-
-## 🟣 GitHub Trophies
+## 💜 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Stfuhxri&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Username-5A189A?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=10002B)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Add%20Username-7B2CBF?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=10002B)](https://geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Username-9D4EDD?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=10002B)](https://hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Username-C77DFF?style=for-the-badge&logo=codechef&logoColor=white&labelColor=10002B)](https://codechef.com/)
 
 </div>
 
----
+<br/>
 
-## 🟣 Contribution Activity
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
+
+<br/>
+
+## 💜 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stfuhxri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Stfuhxri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10002B&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stfuhxri&theme=tokyonight&hide_border=true&background=10002B&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF&border_radius=10" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stfuhxri&layout=compact&theme=tokyonight&hide_border=true&bg_color=10002B&title_color=C77DFF&text_color=E0AAFF&border_radius=10" width="60%" />
 
 </div>
 
----
+<br/>
 
-## 🟣 Contribution Snake
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
+
+<br/>
+
+## 💜 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Stfuhxri&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
+
+<br/>
+
+## 💜 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stfuhxri&theme=react-dark&hide_border=true&bg_color=10002B&color=C77DFF&line=9D4EDD&point=ffffff&area=true&area_color=7B2CBF" width="95%" />
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
+
+<br/>
+
+## 💜 Contribution Snake
 
 <div align="center">
 
@@ -259,9 +318,13 @@ Working independently on personal and learning-driven projects spanning web deve
 
 </div>
 
----
+<br/>
 
-## 🟣 Current Focus
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:240046&height=3&section=header)
+
+<br/>
+
+## 💜 Current Focus
 
 ```yaml
 Learning:
@@ -285,25 +348,29 @@ Open To:
   - Open Source Collaboration
 ```
 
----
+<br/>
 
-## 🟣 Connect With Me
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:6A0DAD&height=3&section=header)
+
+<br/>
+
+## 💜 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-hariyuvaraj1208%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariyuvaraj1208@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srihariyuvaraj-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihariyuvaraj/)
-[![GitHub](https://img.shields.io/badge/GitHub-Stfuhxri-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stfuhxri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Stfuhxri)
+[![Gmail](https://img.shields.io/badge/Gmail-hariyuvaraj1208%40gmail.com-5A189A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10002B)](mailto:hariyuvaraj1208@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srihariyuvaraj-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B)](https://www.linkedin.com/in/srihariyuvaraj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Stfuhxri-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B)](https://github.com/Stfuhxri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C77DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B)](https://github.com/Stfuhxri)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Designing the interface, building the logic, and learning something new every day."*
+### *"Designing the interface, building the logic, and learning something new every day."* 💜
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:6A0DAD,100:8A2BE2&height=150&section=footer)
 
 </div>
