@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Hari&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Content%20Creator&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Hari&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B794F6&center=true&vCenter=true&width=650&lines=Building+sleek+UIs+%26+mobile+apps+%E2%9C%A8;AI-assisted+Android+Development+%F0%9F%93%B1;Figma+%E2%9D%96+React+%E2%9D%96+Node.js;Turning+ideas+into+pixels+%26+code+%F0%9F%92%9C" alt="Typing SVG" />
